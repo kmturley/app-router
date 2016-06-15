@@ -1,5 +1,16 @@
 {
   "name": "app-router",
+  "version": "2.6.1",
+  "authors": [
+    "Erik Ringsmuth <erik.ringsmuth@gmail.com>"
+  ],
+  "description": "Router for Web Components.",
+  "keywords": [
+    "web-components",
+    "router",
+    "polymer",
+    "x-tag"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/erikringsmuth/app-router.git"
